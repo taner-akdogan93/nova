@@ -1,2 +1,1 @@
-# nova
-nova
+![](nova.png)
